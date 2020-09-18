@@ -1,0 +1,37 @@
+
+.mother
+{
+	color: maroon;
+}
+
+.wrong
+{
+	color:firebrick;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.xxsmall
+{
+	font-size:xx-small;
+}
+
+.blue
+{
+	color: blue;
+}
+
+.violet
+{
+	color: blueviolet;
+}
+
+.xsmall
+{
+	font-size:x-small;
+}
+
+.overline
+{
+	text-decoration: overline;
+}
